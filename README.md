@@ -29,7 +29,7 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 License][7].
 
 [1]: http://www.egr.unlv.edu/~ed/x86.html
-[2]: https://imgflip.com/i/3r3exx.jpg
+[2]: salesman.jpg
 [3]: https://brew.sh
 [4]: https://sourceware.org/gdb/onlinedocs/gdb/Command-Files.html
 [5]: https://github.com/robertdfrench/assembly64/blob/master/Makefile
