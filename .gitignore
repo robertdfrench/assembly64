@@ -1,0 +1,11 @@
+# Vim
+*.swp
+*.swo
+
+# Experimental Output
+*.o
+*.exe
+*.loh
+
+# Detritus
+.assembly64
