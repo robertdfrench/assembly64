@@ -9,3 +9,7 @@
 
 # Detritus
 .assembly64
+
+# Ignore user-created .s and .gdb files
+*.s
+*.gdb
