@@ -21,6 +21,9 @@ there's a virtual machine here! 🎉
 2. Write your [GDB Script][4] in `whatever.gdb`
 3. Run `make whatever.test`
 
+### Pro Tips
+* In Calculator.app, press `⌘3` to open "Programmer Mode" (Hex conversions and bitwise arithmetic).
+
 ## License
 ![Creative Commons License][8]
 
