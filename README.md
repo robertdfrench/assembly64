@@ -2,10 +2,9 @@
 
 * Are you trying to read [*x86-64 Assembly Language Programming with Ubuntu*][1]?
 * Are you on a Mac?
+* **This Repo's for You**
 
-![I heard you like x86 on your Mac][2]
-
-## This Repo's for You
+### Setup
 1. Install [Homebrew][3] if you don't already have it
 2. `brew cask install docker`
 3. Run `make hello.test`
@@ -29,7 +28,6 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 License][7].
 
 [1]: http://www.egr.unlv.edu/~ed/x86.html
-[2]: salesman.jpg
 [3]: https://brew.sh
 [4]: https://sourceware.org/gdb/onlinedocs/gdb/Command-Files.html
 [5]: https://github.com/robertdfrench/assembly64/blob/master/Makefile

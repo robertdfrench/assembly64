@@ -15,6 +15,12 @@ container_exec=docker run -it \
 %.o: %.s .assembly64
 	$(call container_exec, yasm -Worphan-labels -g dwarf2 -f elf64 $<)
 
+%.s: example.s
+	cp $< $@
+
+%.gdb: example.gdb
+	cp $< $@
+
 .assembly64: Dockerfile
 	docker build . -t assembly64
 	@touch $@
